@@ -9,9 +9,9 @@ Offer data-backed guidance on new opportunities for market differentiation.
 
 What good is data without a good plot to tell the story?
 
-Using Python Matplotlib and applying it to some real-world situations. For this assignment, I'll be completing a Data Challenges.
+Using Python Matplotlib and applying it to some real-world situations. For this assignment, I'll be completing a Data Challenges utilizing MatPlotlib
 
-## Option 1: Pyber
+## Pyber
 
 ![Ride](Images/Ride.png)
 
